@@ -50,9 +50,6 @@ Manga Viewer:
   - Minimal setup.
   - Designed to provide a clean reading experience.
 
-## Where to find Manga:
-   https://github.com/Jaymax15/Manga_Collection
-
 ## Installation
 1. Download Manga_Reader.py
 2. Insure Python is installed on your system.
@@ -71,3 +68,8 @@ If Python is not already installed, you can install the latest version by:
 
 ```powershell
 winget install Python.Python.3
+```
+
+## Where to find Manga:
+
+1. https://github.com/Jaymax15/Manga_Collection
