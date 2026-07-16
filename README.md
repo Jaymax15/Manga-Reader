@@ -62,7 +62,7 @@ If Python is not already installed, you can install the latest version by:
 
 1. Download the installer from offitial Website.
    
-        https://www.python.org/downloads
+      https://www.python.org/downloads
 
 2. If you have winget installed you can use PowerShell.
 
