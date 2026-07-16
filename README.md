@@ -50,6 +50,9 @@ Manga Viewer:
   - Minimal setup.
   - Designed to provide a clean reading experience.
 
+## Where to find Manga:
+   https://github.com/Jaymax15/Manga_Collection
+
 ## Installation
 1. Download Manga_Reader.py
 2. Insure Python is installed on your system.
