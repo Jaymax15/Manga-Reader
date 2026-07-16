@@ -34,7 +34,6 @@ Manga Viewer:
     - Reading history
 
 - ⚙️ **Highly customizable**
-  - Hundreds of available settings.
   - Customize:
     - Scroll speed
     - Zoom level
@@ -52,16 +51,20 @@ Manga Viewer:
   - Designed to provide a clean reading experience.
 
 ## Installation
+1. Download Manga_Reader.py
+2. Insure Python is installed on your system.
+3. Run using python, in windows 10 or 11 you can just double click the program.
 
-### Requirements
 
-- Python 3.x
+### How to Install Python
 
-### Install Python
+If Python is not already installed, you can install the latest version by:
 
-If Python is not already installed, you can install the latest version using:
+1. Download the installer from offitial Website.
+   
+https://www.python.org/downloads
 
-#### Windows (PowerShell)
+2. If you have winget installed you can use PowerShell.
 
 ```powershell
 winget install Python.Python.3
